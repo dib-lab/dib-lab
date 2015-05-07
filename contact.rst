@@ -51,3 +51,11 @@ rather than collaborating on it -- see `our training efforts
 <http://dib-training.readthedocs.org/en/pub/>`__.  However, in cases
 where the data analysis may require the development of novel methods,
 please get in touch!
+
+Asking Dr. Brown to be on your PhD committee
+--------------------------------------------
+
+Please read `this blog post
+<http://ivory.idyll.org/blog/will-you-join-my-committee.html>`__ -
+then contact Titus if those terms are reasonable.
+
