@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to the Lab for Data Intensive Biology!
-==============================================
+Welcome to the Lab for Data Intensive Biology at UC Davis!
+==========================================================
 
 tl; dr? Data good, data analysis better.
 
