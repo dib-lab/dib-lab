@@ -10,7 +10,6 @@ Current members
 Name                     Position          More information
 =======================  ================  =================================
 C. Titus Brown           Assoc Professor   http://ivory.idyll.org/
-=======================  ================  =================================
 Camille Scott            Graduate Student  http://camillescott.github.io/
 =======================  ================  =================================
 
