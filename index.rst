@@ -3,20 +3,60 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to DIB Lab's documentation!
-===================================
+Welcome to the Lab for Data Intensive Biology!
+==============================================
 
-Contents:
+tl; dr? Data good, data analysis better.
+
+The DIB Lab tackles questions surrounding biological data analysis,
+data integration, and data sharing.  Our primary interest is in
+genomic and transcriptomic sequence analysis.
+
+In brief,
+
+* the lab is the primary developer of the `khmer software
+  <https://github.com/ged-lab/khmer/>`__, for faster and more
+  efficient sequence analysis of high-throughput sequencing data.
+
+* we run quite a bit of `training in data-intensive biology
+  <http://dib-training.readthedocs.org/en/pub/>`__.
+
+* the lab is located at the `University of California, Davis
+  <http://ucdavis.edu>`__ in the `School of Veterinary Medicine
+  <http://www.vetmed.ucdavis.edu>`__.
+
+The lab is run by Dr. C. Titus Brown, an Associate Professor at UC
+Davis; you can see many of the lab's publications `here
+<https://scholar.google.com/citations?hl=en&user=O4rYanMAAAAJ&view_op=list_works&sortby=pubdate>`__. You
+can read more about the lab members under :doc:`members`.
+
+The lab mailing address is::
+
+   c/o C. Titus Brown
+   Population Health and Reproduction
+   University of California, Davis
+   Davis, CA 95616
+
+and we are located on the second floor of the `Center for Companion
+Animal Health <http://www.vetmed.ucdavis.edu/ccah/index.cfm>`__.
+
+----
+
+A comprehensive list of Web site content:
 
 .. toctree::
    :maxdepth: 2
 
+   coc
+   philosophy
+   members
+   grants
+   publications
+   contact-and-more-information
+   press
 
+----
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+This web site is `hosted on github <https://github.com/ged-lab/dib-lab>`__;
+please edit it there.
 
