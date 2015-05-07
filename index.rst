@@ -54,6 +54,7 @@ A comprehensive list of Web site content:
    publications
    contact
    press
+   affiliations
 
 ----
 
