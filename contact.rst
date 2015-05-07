@@ -1,5 +1,8 @@
-Contacting the lab
-==================
+Contacting or joining
+=====================
+
+Contacting us
+-------------
 
 Please contact Dr. (C.) Titus Brown directly at ctbrown@ucdavis.edu.
 

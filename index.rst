@@ -52,7 +52,7 @@ A comprehensive list of Web site content:
    members
    grants
    publications
-   contact-and-more-information
+   contact
    press
 
 ----
