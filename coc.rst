@@ -38,7 +38,9 @@ immediately.
 If you are being harassed, notice that someone else is being harassed,
 or have any other concerns, please contact `Titus Brown
 <mailto:ctbrown@ucdavis.edu>`__ immediately.  If Titus is the cause of
-your concern, *...suggestions welcome*.
+your concern, Cait Pickens (caitsydney at gmail.com) is a good
+informal point of contact.  For official concerns, please see
+`the UC Davis ombuds office <http://ombuds.ucdavis.edu/>`__.
 
 We expect members to follow these guidelines at any lab-related event.
 
