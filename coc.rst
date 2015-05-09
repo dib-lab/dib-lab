@@ -48,3 +48,5 @@ Original source and credit: http://2012.jsconf.us/#/about & The Ada
 Initiative Please help by translating or improving:
 http://github.com/leftlogic/confcodeofconduct.com. This work is
 licensed under a Creative Commons Attribution 3.0 Unported License
+
+.. social media points?

@@ -51,13 +51,16 @@ A comprehensive list of Web site content:
    philosophy
    members
    grants
-   publications
+   reading-guide
    contact
    press
    affiliations
+   work-guidelines
 
 ----
 
 This web site is `hosted on github <https://github.com/ged-lab/dib-lab>`__;
 please edit it there.
 
+.. lab links: progress report; lab meetings; jclub.
+.. mailing lists
