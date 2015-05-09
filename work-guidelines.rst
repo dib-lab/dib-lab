@@ -43,6 +43,17 @@ Technical staff:
 Weekly reports
 --------------
 
+Everyone is expected to file brief weekly reports on what they've been
+up to; this provides both Titus and the lab member with context and
+trajectory going forward, and means that in-person meetings can focus
+on specific issues rather than 
+
+Filing weekly reports is part of being a lab member.  Repeated failure
+to file weekly reports may be taken to imply that you no longer wish
+to be a member of the lab.
+
+----
+
 Weekly reports can and should be minimalist - basically, list
 
 * what you've been working on for the lab, including progress made 
