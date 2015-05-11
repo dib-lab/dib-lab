@@ -82,9 +82,9 @@ travel and AFTER the travel.
 Travel
 ------
 
-* Get permission from Titus before booking any travel over $200.  Under $200,
-  use "lazy consensus" can be applied (see :doc:`philosophy`).  3 working
-  days notice, please.
+* Get permission from Titus before booking any travel over $200.
+  Under $200, "lazy consensus" can be applied (see :doc:`philosophy`).
+  3 working days notice, please.
 
 * Travel should be booked 15 days in advance in order to be reimbursable.
 
