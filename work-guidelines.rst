@@ -46,11 +46,12 @@ Weekly reports
 Everyone is expected to file brief weekly reports on what they've been
 up to; this provides both Titus and the lab member with context and
 trajectory going forward, and means that in-person meetings can focus
-on specific issues rather than 
+on specific issues rather than be more general reporting.
 
 Filing weekly reports is part of being a lab member.  Repeated failure
 to file weekly reports may be taken to imply that you no longer wish
-to be a member of the lab.
+to be a member of the lab.  Note also that it is not Titus' job to
+remind you to submit weekly reports.
 
 ----
 
@@ -72,8 +73,8 @@ Weekly reports should be filed *weekly*, and generally by the same
 time each week, as long as you let Titus know when that is (e.g. by
 Friday 5pm; or by Monday noon; or...)
 
-If vacation travel is coming up, just note that in advance and don't
-submit any while traveling.
+If you are taking time off, then note that in advance and don't submit
+weekly reports during that period.
 
 If work-related travel is coming up, please submit a report BEFORE the
 travel and AFTER the travel.
@@ -85,7 +86,7 @@ Travel
   use "lazy consensus" can be applied (see :doc:`philosophy`).  3 working
   days notice, please.
 
-* Travel must be booked 15 days in advance in order to be reimbursable.
+* Travel should be booked 15 days in advance in order to be reimbursable.
 
 * To book flights on lab money in advance, contact Jason Queen with
   your travel request and CC Titus on the e-mail.
