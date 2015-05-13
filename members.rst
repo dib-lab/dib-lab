@@ -11,6 +11,7 @@ Name                     Position          More information
 =======================  ================  =================================
 \C. Titus Brown           Assoc Professor   http://ivory.idyll.org/
 Camille Scott            Graduate Student  http://camillescott.github.io/
+Michael R. Crusoe        Staff Engineer    http://impactstory.org/MichaelRCrusoe
 =======================  ================  =================================
 
 Lab Alumni
