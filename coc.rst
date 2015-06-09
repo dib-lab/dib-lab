@@ -3,10 +3,8 @@ Lab Code of Conduct
 
 All members of the lab, along with visitors, are expected to agree
 with the following code of conduct. We will enforce this code as
-needed. We expect cooperation from all participants to help ensuring a
+needed. We expect cooperation from all members to help ensuring a
 safe environment for everybody.
-
-**tl;dr: Be excellent with each other**
 
 The Quick Version
 -----------------
@@ -38,11 +36,16 @@ immediately.
 If you are being harassed, notice that someone else is being harassed,
 or have any other concerns, please contact `Titus Brown
 <mailto:ctbrown@ucdavis.edu>`__ immediately.  If Titus is the cause of
-your concern, *...suggestions welcome*.
+your concern, Cait Pickens (caitsydney at gmail.com) is a good
+informal point of contact; she does not work for Titus or UC Davis,
+and has agreed to mediate.  For official concerns, please see `the UC
+Davis ombuds office <http://ombuds.ucdavis.edu/>`__.
 
 We expect members to follow these guidelines at any lab-related event.
 
 Original source and credit: http://2012.jsconf.us/#/about & The Ada
-Initiative Please help by translating or improving:
+Initiative. Please help by translating or improving:
 http://github.com/leftlogic/confcodeofconduct.com. This work is
 licensed under a Creative Commons Attribution 3.0 Unported License
+
+.. social media points?

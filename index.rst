@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to the Lab for Data Intensive Biology!
-==============================================
+Welcome to the Lab for Data Intensive Biology at UC Davis!
+==========================================================
 
 tl; dr? Data good, data analysis better.
 
@@ -51,12 +51,16 @@ A comprehensive list of Web site content:
    philosophy
    members
    grants
-   publications
-   contact-and-more-information
+   reading-guide
+   contact
    press
+   affiliations
+   work-guidelines
 
 ----
 
 This web site is `hosted on github <https://github.com/ged-lab/dib-lab>`__;
 please edit it there.
 
+.. lab links: progress report; lab meetings; jclub.
+.. mailing lists

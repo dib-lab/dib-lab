@@ -35,7 +35,11 @@ Lab details
 -----------
 
 Within the lab, we try to practice `lazy consensus
-<http://nowviskie.org/2012/lazy-consensus/>`__.
+<http://nowviskie.org/2012/lazy-consensus/>`__.  For most formal
+requests (travel / spending), please give Titus 3 working days to
+consider them before moving ahead, unless it's urgent (in which case
+you should bother Titus with an "urgent!" request, receive positive
+permission, and then move ahead).
 
 We have a code of conduct; please see :doc:`coc`.
 
