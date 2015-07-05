@@ -12,8 +12,8 @@ Name                     Position            More information
 \C. Titus Brown          Assoc Professor     http://ivory.idyll.org/
 Camille Scott            Graduate Student    http://camillescott.github.io/
 Jake Fenton              Undergraduate       https://github.com/bocajnotnef
-Luiz Irber               Graduate Student    http://blog.luizirber.org/
-Michael R. Crusoe        Software Engineer   https://impactstory.org/MichaelRCrusoe
+Luiz Irber               Graduate Student    http://luizirber.org
+Michael R. Crusoe        Staff Engineer      https://impactstory.org/MichaelRCrusoe
 Sherine Awad             Postdoc Researcher  https://github.com/SherineAwad
 Tamer Mansour            Postdoc Researcher  https://github.com/drtamermansour
 =======================  =================   =================================
