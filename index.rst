@@ -10,7 +10,7 @@ tl; dr? Data good, data analysis better.
 
 The DIB Lab tackles questions surrounding biological data analysis,
 data integration, and data sharing.  Our primary interest is in
-genomic and transcriptomic sequence analysis.
+genomic, transcriptomic, and metagenomic sequence analysis.
 
 In brief,
 
