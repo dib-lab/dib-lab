@@ -11,7 +11,7 @@ Name                     Position                       More information
 =======================  ============================   =================================
 \C. Titus Brown          Assoc Professor                http://ivory.idyll.org/
 Camille Scott            Graduate Student               http://camillescott.github.io/
-Jake Fenton              Chief Light Sensor Activator   https://github.com/bocajnotnef
+Jake Fenton              Junior Developer               https://github.com/bocajnotnef
 Luiz Irber               Graduate Student               http://luizirber.org
 Michael R. Crusoe        Staff Engineer                 https://impactstory.org/MichaelRCrusoe
 Sherine Awad             Postdoc Researcher             https://github.com/SherineAwad
