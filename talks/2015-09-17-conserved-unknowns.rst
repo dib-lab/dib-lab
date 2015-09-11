@@ -1,7 +1,7 @@
 Talk: Using C. elegans to discover functions of conserved unknown human genes
 #############################################################################
 
-**Erich M. Schwarz**
+`**Dr. Erich M. Schwarz** <http://emstech.org>`__
 
 **Cornell University**
 
