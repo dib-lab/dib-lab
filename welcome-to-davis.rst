@@ -33,6 +33,15 @@ California and surrounding environs
 
 There's tons of stuff to do locally.  A small sampling, below.
 
+Super local
+~~~~~~~~~~~
+
+`Davis bike loop <https://localwiki.org/davis/Davis_Bike_Loop>`__
+
+`Plainfield Station <https://localwiki.org/davis/Plainfield_Station>`__
+
+`Putah Creek <https://localwiki.org/davis/Putah_Creek>`__ (hiking area west of 113, note)
+
 Day trips
 ~~~~~~~~~
 
