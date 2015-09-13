@@ -56,6 +56,7 @@ A comprehensive list of Web site content:
    press
    affiliations
    work-guidelines
+   welcome-to-davis
 
 ----
 
