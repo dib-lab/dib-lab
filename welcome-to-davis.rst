@@ -23,6 +23,8 @@ Ken's Bike & Ski has decent rentals and a good maintenance department
 
 B&L Bike Shop has great customer service - 610 3rd St.
 
+`Green Bicycle Depot <https://localwiki.org/davis/Green_Bicycle_Depot>`__ seems to be cheaper and has pretty good customer service too.
+
 Semi-official lab spots
 =======================
 
