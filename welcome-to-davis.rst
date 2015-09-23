@@ -25,6 +25,17 @@ B&L Bike Shop has great customer service - 610 3rd St.
 
 `Green Bicycle Depot <https://localwiki.org/davis/Green_Bicycle_Depot>`__ seems to be cheaper and has pretty good customer service too.
 
+Craigslist, Sacramento with keyword 'Davis' https://sacramento.craigslist.org/search/bik?query=davis
+
+Furniture
+=======================
+
+L street furniture has a large warehouse of decent used and reasonably priced pieces e.g. bookshelves for $20, desk for $30, chairs for $20 - 421 L St, Davis, CA 95616 
+
+Ikea - 700 Ikea Ct, West Sacramento, CA 95605
+
+Craigslist, Sacramento with keyword 'Davis' - https://sacramento.craigslist.org/search/fuo?query=davis
+
 Semi-official lab spots
 =======================
 
