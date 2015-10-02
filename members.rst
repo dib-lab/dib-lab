@@ -10,12 +10,13 @@ Current members
 Name                     Position                       More information
 =======================  ============================   =================================
 \C. Titus Brown          Assoc Professor                http://ivory.idyll.org/
-Camille Scott            Graduate Student               http://camillescott.github.io/
-Jake Fenton              Chief Light Sensor Activator   https://github.com/bocajnotnef
-Luiz Irber               Graduate Student               http://luizirber.org
-Michael R. Crusoe        Staff Engineer                 https://impactstory.org/MichaelRCrusoe
 Sherine Awad             Postdoc Researcher             https://github.com/SherineAwad
+Lisa Cohen               Graduate Student               https://monsterbashseq.wordpress.com/
+Michael R. Crusoe        Staff Engineer                 https://impactstory.org/MichaelRCrusoe
+Luiz Irber               Graduate Student               http://luizirber.org
 Tamer Mansour            Postdoc Researcher             https://github.com/drtamermansour
+Jessica Mizzi            Training Coordinator
+Camille Scott            Graduate Student               http://camillescott.github.io/
 =======================  ============================   =================================
 
 Lab Alumni
@@ -26,6 +27,7 @@ Lab Alumni
 =======================  =================================
 Name                     More information
 =======================  =================================
+Jake Fenton              https://github.com/bocajnotnef
 Adina Howe               http://www.abe.iastate.edu/adina-howe/
 Elijah Lowe
 Kanchan Pavangadkar

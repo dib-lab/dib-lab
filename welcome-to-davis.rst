@@ -1,11 +1,33 @@
-==========================================================
-Welcome to Davis! Now what? Resources for new lab members.
-==========================================================
+======================================
+Welcome! Resources for new lab members
+======================================
+
+Lab things
+==========
+
+You should add yourself to the `lab members page
+<https://github.com/dib-lab/dib-lab/blob/master/members.rst>`__ with a
+pull request!  Make sure to ask CTB to update the web site.
 
 Employment advice
 =================
 
-Make sure you sign up for health care before the deadline.
+Make sure you sign up for UC Davis health care before the deadline.
+
+On-campus resources
+===================
+
+If you run into any personal or professional issues, please see:
+
+"`The Academic and Staff Assistance Program program
+<http://www.hr.ucdavis.edu/asap/>`__ offers confidential, cost free
+assessment, intervention, consultation and referral services to all UC
+Davis faculty, staff and their immediate families. Whether the problem
+is work- related or personal, administrative or individual, career or
+relationship focused, our experienced staff can assist you in
+recognizing and resolving the problem. Paid release time is
+appropriate for appointments at ASAP."
+
 
 Davis-local resources
 =====================
@@ -24,6 +46,9 @@ Ken's Bike & Ski has decent rentals and a good maintenance department
 B&L Bike Shop has great customer service - 610 3rd St.
 
 `Green Bicycle Depot <https://localwiki.org/davis/Green_Bicycle_Depot>`__ seems to be cheaper and has pretty good customer service too.
+
+Once you have a bike, you might be interested in looking at the
+`goBike program <http://goclub.ucdavis.edu/bike/>`__.
 
 Semi-official lab spots
 =======================
