@@ -17,6 +17,7 @@ Luiz Irber               Graduate Student               http://luizirber.org
 Tamer Mansour            Postdoc Researcher             https://github.com/drtamermansour
 Jessica Mizzi            Training Coordinator
 Camille Scott            Graduate Student               http://camillescott.github.io/
+Richard Smith-Unna       Senior Troublemaker            http://blahah.net
 =======================  ============================   =================================
 
 Lab Alumni
