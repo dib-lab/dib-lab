@@ -14,6 +14,7 @@ Camille Scott            Graduate Student               http://camillescott.gith
 Jake Fenton              Chief Light Sensor Activator   https://github.com/bocajnotnef
 Luiz Irber               Graduate Student               http://luizirber.org
 Michael R. Crusoe        Staff Engineer                 https://impactstory.org/MichaelRCrusoe
+Richard Smith-Unna       Senior Troublemaker            http://blahah.net
 Sherine Awad             Postdoc Researcher             https://github.com/SherineAwad
 Tamer Mansour            Postdoc Researcher             https://github.com/drtamermansour
 =======================  ============================   =================================
