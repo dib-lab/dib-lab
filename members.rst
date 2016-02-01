@@ -15,7 +15,7 @@ Lisa Cohen               Graduate Student               https://monsterbashseq.w
 Michael R. Crusoe        Staff Engineer                 https://impactstory.org/MichaelRCrusoe
 Luiz Irber               Graduate Student               http://luizirber.org
 Tamer Mansour            Postdoc Researcher             https://github.com/drtamermansour
-Jessica Mizzi            Training Coordinator
+Jessica Mizzi            Training Coordinator           http://jessicamizzi.github.io/
 Camille Scott            Graduate Student               http://camillescott.github.io/
 Richard Smith-Unna       Senior Troublemaker            http://blahah.net
 =======================  ============================   =================================
