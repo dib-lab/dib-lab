@@ -18,6 +18,7 @@ Tamer Mansour            Postdoc Researcher             https://github.com/drtam
 Jessica Mizzi            Training Coordinator           http://jessicamizzi.github.io/
 Camille Scott            Graduate Student               http://camillescott.github.io/
 Richard Smith-Unna       Senior Troublemaker            http://blahah.net
+Daniel Standage          Postdoc Researcher             http://standage.github.io
 =======================  ============================   =================================
 
 Lab Alumni
