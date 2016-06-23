@@ -10,6 +10,7 @@ Current members
 Name                     Position                       More information
 =======================  ============================   =================================
 \C. Titus Brown          Assoc Professor                http://ivory.idyll.org/
+Harriet Alexander        Postdoc Researcher             http://halexand.github.io/
 Sherine Awad             Postdoc Researcher             https://github.com/SherineAwad
 Lisa Cohen               Graduate Student               https://monsterbashseq.wordpress.com/
 Michael R. Crusoe        Staff Engineer                 https://impactstory.org/MichaelRCrusoe
