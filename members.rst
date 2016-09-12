@@ -12,7 +12,7 @@ Name                     Position                       More information
 \C. Titus Brown          Assoc Professor                http://ivory.idyll.org/
 Harriet Alexander        Postdoc Researcher             http://halexand.github.io/
 Sherine Awad             Postdoc Researcher             https://github.com/SherineAwad
-Phillip                  Postdoc Researcher             https://brooksph.github.io
+Phillip Brooks           Postdoc Researcher             https://brooksph.github.io
 Lisa Cohen               Graduate Student               https://monsterbashseq.wordpress.com/
 Luiz Irber               Graduate Student               http://luizirber.org
 Tamer Mansour            Postdoc Researcher             https://github.com/drtamermansour
