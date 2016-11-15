@@ -16,10 +16,9 @@ Phillip Brooks           Postdoc Researcher             https://brooksph.github.
 Lisa Cohen               Graduate Student               https://monsterbashseq.wordpress.com/
 Luiz Irber               Graduate Student               http://luizirber.org
 Tamer Mansour            Postdoc Researcher             https://github.com/drtamermansour
-Jessica Mizzi            Training Coordinator           http://jessicamizzi.github.io/
 Camille Scott            Graduate Student               http://camillescott.github.io/
-Richard Smith-Unna       Senior Troublemaker            http://blahah.net
 Daniel Standage          Postdoc Researcher             http://standage.github.io
+Chris Hamm               Postdoc Researcher             http://butterflyology.github.io
 =======================  ============================   =================================
 
 Lab Alumni
@@ -34,8 +33,10 @@ Jake Fenton              https://github.com/bocajnotnef
 Michael R. Crusoe        https://impactstory.org/u/0000-0002-2961-9670
 Adina Howe               http://www.abe.iastate.edu/adina-howe/
 Elijah Lowe
+Jessica Mizzi            http://jessicamizzi.github.io/
 Kanchan Pavangadkar
 Jason Pell
 Likit Preeyanon
+Richard Smith-Unna       http://blahah.net
 Qingpeng Zhang           http://qingpeng.org
 =======================  =================================
