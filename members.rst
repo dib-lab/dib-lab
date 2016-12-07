@@ -19,6 +19,7 @@ Tamer Mansour            Postdoc Researcher             https://github.com/drtam
 Camille Scott            Graduate Student               http://camillescott.github.io/
 Daniel Standage          Postdoc Researcher             http://standage.github.io
 Chris Hamm               Postdoc Researcher             http://butterflyology.github.io
+Karen Word               Postdoc Researcher             http://researchrefinery.wordpress.com
 =======================  ============================   =================================
 
 Lab Alumni
