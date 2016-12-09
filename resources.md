@@ -1,21 +1,21 @@
-======================================
-Welcome! Resources for new lab members
-======================================
+---
+layout: page
+title: Resources
+---
 
-Lab things
-==========
+So you've just joined the lab? Here is some helpful info!
+
+## Lab things
 
 You should add yourself to the `lab members page
 <https://github.com/dib-lab/dib-lab/blob/master/members.rst>`__ with a
 pull request!  Make sure to ask CTB to update the web site.
 
-Employment advice
-=================
+## Employment advice
 
 Make sure you sign up for UC Davis health care before the deadline.
 
-On-campus resources
-===================
+## On-campus resources
 
 If you run into any personal or professional issues, please see:
 
@@ -29,14 +29,12 @@ recognizing and resolving the problem. Paid release time is
 appropriate for appointments at ASAP."
 
 
-Davis-local resources
-=====================
+## Davis-local resources
 
 All things Davis - the `Davis Wiki <http://daviswiki.org>`__ is a tremendous
 source of advice for the local area.
 
-Buying a bike
-~~~~~~~~~~~~~
+### Buying a bike
 
 You'll probably want a bike to get around Davis.
 
@@ -52,8 +50,7 @@ Craigslist, Sacramento with keyword 'Davis' https://sacramento.craigslist.org/se
 Once you have a bike, you might be interested in looking at the
 `goBike program <http://goclub.ucdavis.edu/bike/>`__.
 
-Furniture
-=======================
+## Furniture
 
 L street furniture has a large warehouse of decent used and reasonably priced pieces e.g. bookshelves for $20, desk for $30, chairs for $20 - 421 L St, Davis, CA 95616 
 
@@ -61,18 +58,15 @@ Ikea - 700 Ikea Ct, West Sacramento, CA 95605
 
 Craigslist, Sacramento with keyword 'Davis' - https://sacramento.craigslist.org/search/fuo?query=davis
 
-Semi-official lab spots
-=======================
+## Semi-official lab spots
 
 The Beer Shoppe (G St) is recommended for beer aficionados.
 
-California and surrounding environs
-===================================
+## California and surrounding environs
 
 There's tons of stuff to do locally.  A small sampling, below.
 
-Super local
-~~~~~~~~~~~
+### Super local
 
 `Davis bike loop <https://localwiki.org/davis/Davis_Bike_Loop>`__
 
@@ -80,8 +74,7 @@ Super local
 
 `Putah Creek <https://localwiki.org/davis/Putah_Creek>`__ (hiking area west of 113, note)
 
-Day trips
-~~~~~~~~~
+### Day trips
 
 Muir Beach and Stinson Beach are a bit north of San Francisco.  Point Reyes
 and Bodega Bay are further up. All are lovely, with lots of day hikes and
@@ -105,8 +98,7 @@ and adults both.
 
 `Children's Discovery Museum of San Jose <https://www.cdm.org/>`__
 
-Longer trips
-~~~~~~~~~~~~
+### Longer trips
 
 The whole California coast is amazing - it's a nice full-day drive
 down the 101 and 1 to Los Angeles, through Big Sur.
