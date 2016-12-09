@@ -9,8 +9,8 @@ permalink:        pretty
 title:            DIB Lab
 tagline:          'Better Science Through Superior Software'
 description:      ''
-url:              http://www.camillescott.org/dib-lab
-baseurl:          /dib-lab
+url:              http://ivory.idyll.org/lab
+baseurl:          /lab
 
 author:
   name:           'Camille Scott'
