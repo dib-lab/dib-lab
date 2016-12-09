@@ -1,10 +1,11 @@
-Work guidelines for members of the lab
-======================================
+---
+layout: page
+title: Policies
+---
 
-Responsibilites of lab members
-------------------------------
+## Responsibilites of lab members
 
-Titus' responsibilities as PI:
+**Titus' responsibilities as PI**:
 
 * find funding, or give fair notice when funding is going to lapse;
 * make himself available for meetings when necessary;
@@ -15,7 +16,7 @@ Titus' responsibilities as PI:
 * write recommendation letters to support people in the lab as well
   as former lab members;
 
-Graduate student responsibilities:
+**Graduate student responsibilities**:
 
 * meet their graduate school reporting and exam requirements;
 * identify and develop research projects with the help of the PI;
@@ -24,7 +25,7 @@ Graduate student responsibilities:
 * schedule committee meetings on a yearly basis;
 * submit weekly report;
 
-Post-doc responsibilities:
+**Post-doc responsibilities**:
 
 * identify and develop research projects with the help of the PI;
 * attend and present at lab meetings and journal clubs;
@@ -33,15 +34,14 @@ Post-doc responsibilities:
 * provide scientific and technical leadership within the lab;
 * submit weekly report;
 
-Technical staff:
+**Technical staff**:
 
 * focus about 80% of their effort on priorities defined by the PI;
 * attend lab meetings;
 * submit weekly report;
 * define their career goals and work towards them;
 
-Weekly reports
---------------
+## Weekly reports
 
 Everyone is expected to file brief weekly reports on what they've been
 up to; this provides both Titus and the lab member with context and
@@ -79,11 +79,10 @@ weekly reports during that period.
 If work-related travel is coming up, please submit a report BEFORE the
 travel and AFTER the travel.
 
-Travel
-------
+## Travel
 
 * Get permission from Titus before booking any travel over $200.
-  Under $200, "lazy consensus" can be applied (see :doc:`philosophy`).
+  Under $200, "lazy consensus" can be applied (see [philosophy](/philosophy)).
   3 working days notice, please.
 
 * Travel should be booked 15 days in advance in order to be reimbursable.
@@ -94,8 +93,7 @@ Travel
 * To get reimbursed for trips, contact Jason Queen with your reimbursement
   request and CC Titus on the e-mail.
 
-Orders
-------
+## Orders
 
 The lab money is to be used for support of our research goals; so,
 Titus will generally consider requests to buy research materials
@@ -108,7 +106,7 @@ Under $5000,
 * Orders under $5000 can be done without a PO, by contacting Jason
   Queen.  Please CC Titus.
 
-* Under $200, use "lazy consensus" (see :doc:`philosophy`).  3 working days
+* Under $200, use "lazy consensus" (see [philosophy](/philosophy)).  3 working days
   notice, please.
 
 * Jason will need the paperwork that comes with the order (the packing
