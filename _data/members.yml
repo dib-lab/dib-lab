@@ -1,7 +1,8 @@
 - name: C. Titus Brown
   position: Assoc Professor
   site: http://ivory.idyll.org/
-  about: The PI and Chief of Things. Twitter poweruser. Data wizard.
+  about: The PI and Chief of Things. Twitter poweruser. Data wizard. Amateur blockchain
+      enthusiast.
 
 - name: Sherine Awad
   position: Postdoc Researcher
@@ -11,7 +12,7 @@
 - name: Lisa Cohen
   position: Graduate Student
   site: https://monsterbashseq.wordpress.com/
-  about:
+  about: I break HPCs with overwhelming data.
 
 - name: Luiz Irber
   position: Graduate Student
@@ -22,7 +23,7 @@
   position: Graduate Student
   site: http://camillescott.github.io/
   about: Transcriptome assembly, viz stuff, Function function functions. Creates
-      of software with silly names, [dammit](http://camillescott.org/dammit).
+      software with silly names, [dammit](http://camillescott.org/dammit).
 
 - name: Tamer Mansour            
   position: Postdoc Researcher             
@@ -47,4 +48,9 @@
 - name: Chris Hamm
   position: Postdoc Researcher
   site: http://butterflyology.github.io
+  about:
+
+- name: Karen Word
+  position: Postdoc Researcher
+  site: https://researchrefinery.wordpress.com/
   about:
