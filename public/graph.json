@@ -1,0 +1,19 @@
+{
+  "nodes":[
+    {"name":"Lab","group":0, "radius": 40, "charge":-200},
+    {"name":"for","group":0, "radius": 30, "charge": -30},
+    {"name":"Data","group":1, "radius": 100, "charge": -30},
+    {"name":"Intensive","group":1, "radius": 120, "charge": -30},
+    {"name":"Biology","group":1, "radius": 100, "charge": -30},
+    {"name":"at", "group": 2, "radius": 40, "charge": 0},
+    {"name":"UC Davis", "group": 2, "radius": 100, "charge": 0}
+  ],
+  "links":[
+    {"source":0,"target":1,"value":5, "dist":100},
+    {"source":1,"target":2,"value":10, "dist": 130},
+    {"source":2,"target":3,"value":50, "dist": 300},
+    {"source":3,"target":4,"value":50, "dist": 300},
+    {"source":2,"target":4,"value":15, "dist": 300},
+    {"source":5,"target":6,"value":15, "dist": 200}
+  ]
+}
