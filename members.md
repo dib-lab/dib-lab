@@ -5,15 +5,14 @@ title: Members
 
 {% assign members = site.data.members | sort: 'name' %}
 {% for member in members %}
-#### **{{ member.name }}**
+#### **{{ member.name }}**, <small>*{{ member.position }}*</small>
 *[{{ member.site }}]({{member.site}})*
 
 {{ member.about }}
 
+---
 {% endfor %}
 
-
----
 
 ## Lab Alumni
 
@@ -21,5 +20,7 @@ title: Members
 {% for member in alumni %}
 #### **{{ member.name }}**
 *[{{ member.site }}]({{member.site}})*
+
+---
 
 {% endfor %}
