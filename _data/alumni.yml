@@ -8,7 +8,7 @@
   site:
 
 - name: Jessica Mizzi 
-  site:
+  site: http://jessicamizzi.github.io/
 
 - name: Kanchan Pavangadkar
   site:
@@ -24,3 +24,6 @@
 
 - name: Richard Smith-Unna
   site: http://blahah.net
+
+- name: Qingpen Zhang
+  site: http://qingpeng.org

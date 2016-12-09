@@ -1,10 +1,10 @@
 - name: C. Titus Brown
   position: Assoc Professor
   site: http://ivory.idyll.org/
-  about: The PI and Chief of Things.
+  about: The PI and Chief of Things. Twitter poweruser. Data wizard.
 
 - name: Sherine Awad
-  position: Postdoc
+  position: Postdoc Researcher
   site: https://github.com/SherineAwad
   about:
 
@@ -21,10 +21,30 @@
 - name: Camille Scott            
   position: Graduate Student
   site: http://camillescott.github.io/
-  about: 
+  about: Transcriptome assembly, viz stuff, Function function functions. Creates
+      of software with silly names, [dammit](http://camillescott.org/dammit).
 
 - name: Tamer Mansour            
   position: Postdoc Researcher             
   site: https://github.com/drtamermansour
   about:
 
+- name: Harriet Alexander
+  position: Postdoc Researcher
+  site: http://halexand.github.io/
+  about:
+
+- name: Phillip Brooks 
+  position: Postdoc Researcher
+  site: https://brooksph.github.io
+  about:
+
+- name: Daniel Standage
+  position: Postdoc Researcher
+  site: https://standage.github.io/
+  about:
+
+- name: Chris Hamm
+  position: Postdoc Researcher
+  site: http://butterflyology.github.io
+  about:
