@@ -10,7 +10,7 @@ title:            Hyde
 tagline:          'Better Science Through Superior Software'
 description:      ''
 url:              http://www.camillescott.org/dib-lab
-baseurl:          /
+baseurl:          /dib-lab
 
 author:
   name:           'Camille Scott'
