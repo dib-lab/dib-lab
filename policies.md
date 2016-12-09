@@ -82,7 +82,7 @@ travel and AFTER the travel.
 ## Travel
 
 * Get permission from Titus before booking any travel over $200.
-  Under $200, "lazy consensus" can be applied (see [philosophy](/philosophy)).
+  Under $200, "lazy consensus" can be applied (see [philosophy]({{site.github.url}}/philosophy)).
   3 working days notice, please.
 
 * Travel should be booked 15 days in advance in order to be reimbursable.
@@ -106,7 +106,7 @@ Under $5000,
 * Orders under $5000 can be done without a PO, by contacting Jason
   Queen.  Please CC Titus.
 
-* Under $200, use "lazy consensus" (see [philosophy](/philosophy)).  3 working days
+* Under $200, use "lazy consensus" (see [philosophy]({{site.github.url}}/philosophy)).  3 working days
   notice, please.
 
 * Jason will need the paperwork that comes with the order (the packing

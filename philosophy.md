@@ -42,7 +42,7 @@ consider them before moving ahead, unless it's urgent (in which case
 you should bother Titus with an "urgent!" request, receive positive
 permission, and then move ahead).
 
-We have a code of conduct; please read it [here](coc).
+We have a code of conduct; please read it [here]({{site.github.url}}/coc).
 
 All software within the lab should be written in C++ and/or Python, in
 order to maximize reuse and remixability within the lab.
