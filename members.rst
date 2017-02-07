@@ -14,6 +14,7 @@ Harriet Alexander        Postdoc Researcher             http://halexand.github.i
 Sherine Awad             Postdoc Researcher             https://github.com/SherineAwad
 Phillip Brooks           Postdoc Researcher             https://brooksph.github.io
 Lisa Cohen               Graduate Student               https://monsterbashseq.wordpress.com/
+Jiarong Guo              Postdoc Researcher             https://github.com/jiarong
 Luiz Irber               Graduate Student               http://luizirber.org
 Tamer Mansour            Postdoc Researcher             https://github.com/drtamermansour
 Camille Scott            Graduate Student               http://camillescott.github.io/
