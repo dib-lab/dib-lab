@@ -30,3 +30,7 @@ Workshops
 
 The lab does quite a bit of training. Materials (and often live-streamd videos!)
 from our training workshops are posted `here <http://dib-training.readthedocs.io/>`__.
+
+Titus coordinated the Analysis of Next Generation Sequencing (ANGUS) workshop from 2010 to 2016 at Michigan State University's Kellogg Biological Station in Kalamazoo, MI. Materials from the most recent workshop in 2016 are `here <http://angus.readthedocs.io/en/2016/>`__. 
+
+There will be a Data Intensive Biology Summer Institute (DIBSI) held at UC Davis this year from June 18 to July 21, 2017. Applications for DIBSI are due by March 17, 2017. The website with more information on what material is covered and instructions for how to apply is `here <http://ivory.idyll.org/dibsi/index.html>`__. 
