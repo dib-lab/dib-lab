@@ -39,7 +39,7 @@ Misc. Tutorials
 ---------------
 
 - `screed <https://github.com/dib-lab/2016-illo-screed>`__
-- `sourmash <https://github.com/dib-lab/2016-illo-sourmash>`__(`YouTube recording <https://www.youtube.com/watch?v=VZ6wBW1PGIk>`__)
+- `sourmash <https://github.com/dib-lab/2016-illo-sourmash>`__ (`YouTube recording <https://www.youtube.com/watch?v=VZ6wBW1PGIk>`__)
 - `binder <https://github.com/ctb/2016-illo-binder>`__ (`YouTube recording <https://www.youtube.com/watch?v=uScICXDIJvU>`__)
 - `Zen and the Art of Kmers (using khmer) <https://dib-lab.github.io/zen-khmer/>`__ (June 13-15, 2016)
 
