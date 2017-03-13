@@ -37,7 +37,7 @@ There will be a Data Intensive Biology Summer Institute (DIBSI) held at UC Davis
 
 Misc. Tutorials
 ---------------
-
+- `NGS 2015 week 3 <http://angus.readthedocs.io/en/2015/week3.html>`__
 - `screed <https://github.com/dib-lab/2016-illo-screed>`__
 - `sourmash <https://github.com/dib-lab/2016-illo-sourmash>`__ (`YouTube recording <https://www.youtube.com/watch?v=VZ6wBW1PGIk>`__)
 - `binder <https://github.com/ctb/2016-illo-binder>`__ (`YouTube recording <https://www.youtube.com/watch?v=uScICXDIJvU>`__)
