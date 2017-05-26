@@ -55,7 +55,7 @@ Once you have a bike, you might be interested in looking at the
 Furniture
 =======================
 
-L street furniture has a large warehouse of decent used and reasonably priced pieces e.g. bookshelves for $20, desk for $30, chairs for $20 - 421 L St, Davis, CA 95616 
+L street furniture has a large warehouse of decent used and reasonably priced pieces e.g. bookshelves for $20, desks for $30, chairs for $20 - 421 L St, Davis, CA 95616 
 
 Ikea - 700 Ikea Ct, West Sacramento, CA 95605
 
