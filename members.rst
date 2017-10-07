@@ -18,6 +18,7 @@ Jiarong Guo              Postdoc Researcher             https://github.com/jiaro
 Luiz Irber               Graduate Student               http://luizirber.org
 Tamer Mansour            Postdoc Researcher             https://github.com/drtamermansour
 \N. Tessa Pierce         Postdoc Researcher             https://bluegenes.github.io
+Taylor Reiter            Graduate Student               https://taylorreiter.github.io
 Camille Scott            Graduate Student               http://camillescott.github.io/
 Daniel Standage          Postdoc Researcher             http://standage.github.io
 Chris Hamm               Postdoc Researcher             http://butterflyology.github.io
