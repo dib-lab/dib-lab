@@ -33,8 +33,8 @@ Lab Alumni
 =======================  =================================
 Name                     More information
 =======================  =================================
+Michael R. Crusoe        https://orcid.org/0000-0002-2961-9670
 Jake Fenton              https://github.com/bocajnotnef
-Michael R. Crusoe        https://impactstory.org/u/0000-0002-2961-9670
 Adina Howe               http://www.abe.iastate.edu/adina-howe/
 Elijah Lowe
 Jessica Mizzi            http://jessicamizzi.github.io/
