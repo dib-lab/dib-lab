@@ -11,10 +11,8 @@ Name                     Position                       More information
 =======================  ============================   =================================
 \C. Titus Brown          Assoc Professor                http://ivory.idyll.org/
 Harriet Alexander        Postdoc Researcher             http://halexand.github.io/
-Sherine Awad             Postdoc Researcher             https://github.com/SherineAwad
 Phillip Brooks           Postdoc Researcher             https://brooksph.github.io
 Jiarong Guo              Postdoc Researcher             https://github.com/jiarong
-Chris Hamm               Postdoc Researcher             http://butterflyology.github.io
 Rayna Harris             Postdoc Researcher             https://raynamharris.github.io/
 Luiz Irber               Graduate Student               http://luizirber.org
 Lisa Johnson               Graduate Student               https://monsterbashseq.wordpress.com/
@@ -34,8 +32,10 @@ Lab Alumni
 =======================  =================================
 Name                     More information
 =======================  =================================
+Sherine Awad             https://github.com/SherineAwad
 Michael R. Crusoe        https://orcid.org/0000-0002-2961-9670
 Jake Fenton              https://github.com/bocajnotnef
+Chris Hamm               http://butterflyology.github.io
 Adina Howe               http://www.abe.iastate.edu/adina-howe/
 Elijah Lowe
 Jessica Mizzi            http://jessicamizzi.github.io/
