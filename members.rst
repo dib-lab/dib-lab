@@ -13,15 +13,16 @@ Name                     Position                       More information
 Harriet Alexander        Postdoc Researcher             http://halexand.github.io/
 Sherine Awad             Postdoc Researcher             https://github.com/SherineAwad
 Phillip Brooks           Postdoc Researcher             https://brooksph.github.io
-Lisa Johnson               Graduate Student               https://monsterbashseq.wordpress.com/
 Jiarong Guo              Postdoc Researcher             https://github.com/jiarong
+Chris Hamm               Postdoc Researcher             http://butterflyology.github.io
+Rayna Harris             Postdoc Researcher             https://raynamharris.github.io/
 Luiz Irber               Graduate Student               http://luizirber.org
+Lisa Johnson               Graduate Student               https://monsterbashseq.wordpress.com/
 Tamer Mansour            Postdoc Researcher             https://github.com/drtamermansour
 \N. Tessa Pierce         Postdoc Researcher             https://bluegenes.github.io
 Taylor Reiter            Graduate Student               https://taylorreiter.github.io
 Camille Scott            Graduate Student               http://camillescott.github.io/
 Daniel Standage          Postdoc Researcher             http://standage.github.io
-Chris Hamm               Postdoc Researcher             http://butterflyology.github.io
 Karen Word               Postdoc Researcher             http://researchrefinery.wordpress.com
 =======================  ============================   =================================
 
