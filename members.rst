@@ -9,7 +9,7 @@ Current members
 =======================  ============================   =================================
 Name                     Position                       More information
 =======================  ============================   =================================
-\C. Titus Brown          Assoc Professor                http://ivory.idyll.org/
+\C. Titus Brown          QSWG and Assoc Professor       http://ivory.idyll.org/
 Harriet Alexander        Postdoc Researcher             http://halexand.github.io/
 Phillip Brooks           Postdoc Researcher             https://brooksph.github.io
 Jiarong Guo              Postdoc Researcher             https://github.com/jiarong
