@@ -20,6 +20,8 @@ In brief,
 
 * we run quite a bit of `training in data-intensive biology
   <http://dib-training.readthedocs.org/en/pub/>`__.
+  
+* we coordinate training and communication for the NIH-funded `Data Commons Pilot Phase <https://commonfund.nih.gov/commons/>`__.
 
 * the lab is located at the `University of California, Davis
   <http://ucdavis.edu>`__ in the `School of Veterinary Medicine
