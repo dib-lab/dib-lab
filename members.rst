@@ -12,6 +12,7 @@ Name                     Position                       More information
 \C. Titus Brown          QSWG and Assoc Professor       http://ivory.idyll.org/
 Harriet Alexander        Postdoc Researcher             http://halexand.github.io/
 Phillip Brooks           Postdoc Researcher             https://brooksph.github.io
+Amanda Charbonneau       Postdoc Resesrcher             https://acharbonneau.github.io/
 Jiarong Guo              Postdoc Researcher             https://github.com/jiarong
 Rayna Harris             Postdoc Researcher             https://raynamharris.github.io/
 Luiz Irber               Graduate Student               http://luizirber.org
