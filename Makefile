@@ -36,7 +36,8 @@ html:
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."
 
 update: html
-	rsync -av html/ t@vallista.idyll.org:ivory/lab/
+	cd html && s3cmd sync * s3://ivory.idyll.org/lab/ -c ~/.s3cfg-tnt -v
+#	rsync -av html/ t@vallista.idyll.org:ivory/lab/
 
 dirhtml:
 	$(SPHINXBUILD) -b dirhtml $(ALLSPHINXOPTS) $(BUILDDIR)/dirhtml
