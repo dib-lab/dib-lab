@@ -15,6 +15,7 @@ Jiarong Guo              Postdoc Researcher             https://github.com/jiaro
 Rayna Harris             Postdoc Researcher             https://raynamharris.github.io/
 Luiz Irber               Graduate Student               http://luizirber.org
 Lisa Johnson             Graduate Student               https://monsterbashseq.wordpress.com/
+Marisa Lim               Postdoc Researcher             https://marisalim.weebly.com/
 Tamer Mansour            Postdoc Researcher             https://github.com/drtamermansour
 \N. Tessa Pierce         Postdoc Researcher             https://bluegenes.github.io
 Charles Reid             Software engineer
