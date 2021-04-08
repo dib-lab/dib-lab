@@ -17,8 +17,9 @@ before the deadline!
 The lab mailing address is:
 ```
    c/o C. Titus Brown
-   Population Health and Reproduction
+   VM:PHR
    University of California, Davis
+   1 Shields Ave
    Davis, CA 95616
 ```
 

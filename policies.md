@@ -23,7 +23,7 @@ title: Policies
 * apply effort to their research and work towards a PhD-worth body of work;
 * attend and present at lab meetings and journal clubs;
 * schedule committee meetings on a yearly basis;
-* submit weekly report;
+* [optional] submit weekly report;
 
 **Post-doc responsibilities**:
 
@@ -32,7 +32,7 @@ title: Policies
 * define their career goals and work towards them;
 * pursue projects and collaborations that further their own career goals;
 * provide scientific and technical leadership within the lab;
-* submit weekly report;
+* [optional] submit weekly report;
 
 **Technical staff**:
 
@@ -43,17 +43,13 @@ title: Policies
 
 ## Weekly reports
 
-Everyone is expected to file brief weekly reports on what they've been
+Weekly reports are a way to report what lab members have been
 up to; this provides both Titus and the lab member with context and
 trajectory going forward, and means that in-person meetings can focus
 on specific issues rather than be more general reporting.
 
-Filing weekly reports is part of being a lab member.  Repeated failure
-to file weekly reports may be taken to imply that you no longer wish
-to be a member of the lab.  Note also that it is not Titus' job to
-remind you to submit weekly reports.
-
-----
+Weekly reports can be emailed to Titus privately or to the whole lab 
+via the internal mailing list. 
 
 Weekly reports can and should be minimalist - basically, list
 
@@ -61,10 +57,11 @@ Weekly reports can and should be minimalist - basically, list
   and obstacles overcome;
 * deferred items and upcoming issues;
 * long term goals;
+* work-related travel;
 * anything else you want Titus to know, including personal issues.
 
 Most of the weekly report can be copy-pasted from the previous week;
-feel free to do so.  If it takes you more than 10 minutes to do each
+feel free to do so.  If it takes you more than 60 minutes to do each
 week, you're probably overdoing it.
 
 ----
