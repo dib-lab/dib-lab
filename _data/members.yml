@@ -1,22 +1,26 @@
 - name: C. Titus Brown
-  position: Assoc Professor
+  position: QSWG and Assoc Professor
   site: http://ivory.idyll.org/
   about: The PI and Chief of Things. Twitter poweruser. Data wizard.
 
-- name: Sherine Awad
-  position: Postdoc Researcher
-  site: https://github.com/SherineAwad
-  about:
-
-- name: Lisa Cohen
-  position: Graduate Student
-  site: https://monsterbashseq.wordpress.com/
-  about:
-
 - name: Luiz Irber
-  position: Graduate Student
+  position: Postdoc Researcher
   site: http://luizirber.org
   about:
+
+- name: Amanda Charbonneau
+  position: Postdoc Researcher
+  site: https://acharbonneau.github.io/
+  about: 
+
+- name: N. Tessa Pierce
+  position: Postdoc Researcher
+  site: https://bluegenes.github.io
+  about: 
+
+- name: Marisa Lim
+  position: Postdoc Researcher
+  site: https://marisalim.weebly.com/
 
 - name: Camille Scott            
   position: Graduate Student
@@ -29,22 +33,3 @@
   site: https://github.com/drtamermansour
   about:
 
-- name: Harriet Alexander
-  position: Postdoc Researcher
-  site: http://halexand.github.io/
-  about:
-
-- name: Phillip Brooks 
-  position: Postdoc Researcher
-  site: https://brooksph.github.io
-  about:
-
-- name: Daniel Standage
-  position: Postdoc Researcher
-  site: https://standage.github.io/
-  about:
-
-- name: Chris Hamm
-  position: Postdoc Researcher
-  site: http://butterflyology.github.io
-  about:
