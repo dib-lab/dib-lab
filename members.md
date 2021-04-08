@@ -6,8 +6,9 @@ title: Members
 #### **C. Titus Brown**, <small>*QSWG and Assoc Professor*</small>
 *[http://ivory.idyll.org/](http://ivory.idyll.org/)*
 
-The PI and Chief of Things. Twitter poweruser. Data wizard. Amateur blockchain
-      enthusiast.
+The PI and Chief of Things. Twitter poweruser. Data wizard. Amateur blockchain enthusiast.
+
+---
 
 {% assign members = site.data.members | sort: 'name' %}
 {% for member in members %}
