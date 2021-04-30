@@ -20,6 +20,7 @@ Tamer Mansour            Postdoc Researcher             https://github.com/drtam
 \N. Tessa Pierce         Postdoc Researcher             https://bluegenes.github.io
 Charles Reid             Software engineer
 Taylor Reiter            Graduate Student               https://taylorreiter.github.io
+Jose Sanchez             Training Coordinator           https://www.linkedin.com/in/jose-manuel-sanchez-jr/
 Camille Scott            Graduate Student               http://camillescott.github.io/
 Daniel Standage          Postdoc Researcher             http://standage.github.io
 Karen Word               Postdoc Researcher             http://researchrefinery.wordpress.com
