@@ -10,8 +10,8 @@ Current members
 Name                     Position                       More information
 =======================  ============================   =================================
 \C. Titus Brown          QSWG and Assoc Professor       http://ivory.idyll.org/
-Amanda Charbonneau       Postdoc Resesrcher             https://acharbonneau.github.io/
 Abhijna Parigi           Postdoc Resesrcher             https://www.linkedin.com/in/abhijna-parigi/
+Amanda Charbonneau       Postdoc Resesrcher             https://acharbonneau.github.io/
 Jiarong Guo              Postdoc Researcher             https://github.com/jiarong
 Rayna Harris             Postdoc Researcher             https://raynamharris.github.io/
 Luiz Irber               Graduate Student               http://luizirber.org
