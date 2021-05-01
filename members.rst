@@ -9,22 +9,22 @@ Current members
 =======================  ============================   =================================
 Name                     Position                       More information
 =======================  ============================   =================================
+Mo Abuelanin             Graduate student
 \C. Titus Brown          QSWG and Assoc Professor       http://ivory.idyll.org/
-Abhijna Parigi           Postdoc Researcher             https://www.linkedin.com/in/abhijna-parigi/
+Saranya Canchi           Postdoc Researcher
 Amanda Charbonneau       Postdoc Researcher             https://acharbonneau.github.io/
-Jiarong Guo              Postdoc Researcher             https://github.com/jiarong
-Rayna Harris             Postdoc Researcher             https://raynamharris.github.io/
-Luiz Irber               Graduate Student               http://luizirber.org
-Lisa Johnson             Graduate Student               https://monsterbashseq.wordpress.com/
+Hannah Houts             Graduate Student
+Luiz Irber               Postdoc Researcher             http://luizirber.org
 Marisa Lim               Postdoc Researcher             https://marisalim.weebly.com/
 Tamer Mansour            Postdoc Researcher             https://github.com/drtamermansour
+Bryshal Moore            Graduate Student
+Abhijna Parigi           Postdoc Researcher             https://www.linkedin.com/in/abhijna-parigi/
 \N. Tessa Pierce         Postdoc Researcher             https://bluegenes.github.io
-Charles Reid             Software engineer
-Taylor Reiter            Graduate Student               https://taylorreiter.github.io
+Taylor Reiter            Postdoc Researcher             https://taylorreiter.github.io
 Jose Sanchez             Training Coordinator           https://www.linkedin.com/in/jose-manuel-sanchez-jr/
 Camille Scott            Graduate Student               http://camillescott.github.io/
-Daniel Standage          Postdoc Researcher             http://standage.github.io
-Karen Word               Postdoc Researcher             http://researchrefinery.wordpress.com
+Mostafa Shokrof          Graduate Student
+Jeremy Walter            Training Coordinator
 =======================  ============================   =================================
 
 Lab Alumni
@@ -40,13 +40,19 @@ Sherine Awad             https://github.com/SherineAwad
 Phillip Brooks           https://brooksph.github.io
 Michael R. Crusoe        https://orcid.org/0000-0002-2961-9670
 Jake Fenton              https://github.com/bocajnotnef
+Jiarong Guo              
 Chris Hamm               http://butterflyology.github.io
+Rayna Harris             
 Adina Howe               http://www.abe.iastate.edu/adina-howe/
+Lisa Johnson             
 Elijah Lowe
 Jessica Mizzi            http://jessicamizzi.github.io/
 Kanchan Pavnangadkar
 Jason Pell
 Likit Preeyanon
+Charles Reid             Software engineer
 Richard Smith-Unna       http://blahah.net
+Daniel Standage
+Karen Word               
 Qingpeng Zhang           http://qingpeng.org
 =======================  =================================
