@@ -9,7 +9,7 @@ Current members
 =======================  ============================   =================================
 Name                     Position                       More information
 =======================  ============================   =================================
-Mo Abuelanin             Graduate student
+Mohamed Abuelanin        Graduate Student               https://mr-eyes.github.io
 \C. Titus Brown          QSWG and Assoc Professor       http://ivory.idyll.org/
 Saranya Canchi           Postdoc Researcher
 Amanda Charbonneau       Postdoc Researcher             https://acharbonneau.github.io/
