@@ -19,7 +19,7 @@ Marisa Lim               Postdoc Researcher             https://marisalim.weebly
 Tamer Mansour            Postdoc Researcher             https://github.com/drtamermansour
 Bryshal Moore            Graduate Student
 Abhijna Parigi           Postdoc Researcher             https://www.linkedin.com/in/abhijna-parigi/
-\N. Tessa Pierce         Postdoc Researcher             https://bluegenes.github.io
+\N. Tessa Pierce Ward    Postdoc Researcher             https://bluegenes.github.io
 Taylor Reiter            Postdoc Researcher             https://taylorreiter.github.io
 Jose Sanchez             Training Coordinator           https://www.linkedin.com/in/jose-manuel-sanchez-jr/
 Camille Scott            Graduate Student               http://camillescott.github.io/
