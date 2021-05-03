@@ -40,6 +40,7 @@ Sherine Awad             https://github.com/SherineAwad
 Phillip Brooks           https://brooksph.github.io
 Michael R. Crusoe        https://orcid.org/0000-0002-2961-9670
 Jake Fenton              https://github.com/bocajnotnef
+Alicia Gingrich
 Jiarong Guo              
 Chris Hamm               http://butterflyology.github.io
 Rayna Harris             
