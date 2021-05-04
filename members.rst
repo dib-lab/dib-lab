@@ -11,7 +11,7 @@ Name                     Position                       More information
 =======================  ============================   =================================
 Mohamed Abuelanin        Graduate Student               https://mr-eyes.github.io
 \C. Titus Brown          QSWG and Assoc Professor       http://ivory.idyll.org/
-Saranya Canchi           Postdoc Researcher
+Saranya Canchi           Postdoc Researcher             https://s-canchi.github.io   
 Amanda Charbonneau       Postdoc Researcher             https://acharbonneau.github.io/
 Hannah Houts             Graduate Student
 Luiz Irber               Postdoc Researcher             http://luizirber.org
