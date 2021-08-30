@@ -14,6 +14,7 @@ Mohamed Abuelanin        Graduate Student               https://mr-eyes.github.i
 Saranya Canchi           Postdoc Researcher             https://s-canchi.github.io   
 Amanda Charbonneau       Postdoc Researcher             https://acharbonneau.github.io/
 Hannah Houts             Graduate Student
+Keya Barve               Undergraduate Student          https://www.linkedin.com/in/keyabarve/
 Luiz Irber               Postdoc Researcher             http://luizirber.org
 Marisa Lim               Postdoc Researcher             https://marisalim.weebly.com/
 Tamer Mansour            Postdoc Researcher             https://github.com/drtamermansour
