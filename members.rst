@@ -15,6 +15,7 @@ Keya Barve               Undergraduate Student          https://www.linkedin.com
 Amanda Charbonneau       Postdoc Researcher             https://acharbonneau.github.io/
 Rayna Harris             Postdoc Researcher             https://raynamharris.github.io/
 Hannah Houts             Graduate Student
+Jessica Lumian           Graduate Student               https://github.com/jessicalumian
 Tamer Mansour            Postdoc Researcher             https://github.com/drtamermansour
 Bryshal Moore            Graduate Student
 \N. Tessa Pierce Ward    Postdoc Researcher             https://bluegenes.github.io
@@ -46,7 +47,6 @@ Luiz Irber               http://luizirber.org
 Lisa Johnson             
 Marisa Lim               https://marisalim.weebly.com/
 Elijah Lowe
-Jessica Mizzi            http://jessicamizzi.github.io/
 Abhijna Parigi           https://www.linkedin.com/in/abhijna-parigi/
 Kanchan Pavangadkar
 Jason Pell
