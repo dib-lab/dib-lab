@@ -56,6 +56,7 @@ A comprehensive list of Web site content:
    members
    grants
    reading-guide
+   training
    contact
    press
    affiliations
