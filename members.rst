@@ -45,7 +45,7 @@ Chris Hamm               http://butterflyology.github.io
 Adina Howe               http://www.abe.iastate.edu/adina-howe/
 Luiz Irber               http://luizirber.org
 Lisa Johnson             
-Marisa Lim               https://marisalim.weebly.com/
+Marisa Lim               https://marisalim.github.io/
 Elijah Lowe
 Abhijna Parigi           https://www.linkedin.com/in/abhijna-parigi/
 Kanchan Pavangadkar
