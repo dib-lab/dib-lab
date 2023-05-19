@@ -16,13 +16,14 @@ Amanda Charbonneau       Postdoc Researcher             https://acharbonneau.git
 Rayna Harris             Postdoc Researcher             https://raynamharris.github.io/
 Hannah Houts             Graduate Student
 Jessica Lumian           Graduate Student               https://github.com/jessicalumian
-Tamer Mansour            Postdoc Researcher             https://github.com/drtamermansour
+Tamer Mansour            Assistant Researcher           https://www.linkedin.com/in/tamer-ahmed-mansour/
 Bryshal Moore            Graduate Student
 \N. Tessa Pierce Ward    Postdoc Researcher             https://bluegenes.github.io
 Taylor Reiter            Postdoc Researcher             https://taylorreiter.github.io
 Camille Scott            Graduate Student               http://camillescott.github.io/
 Mostafa Shokrof          Graduate Student
 Jeremy Walter            Training Coordinator
+Wengang Zhang            Postdoc Researcher             https://www.researchgate.net/profile/Wengang-Zhang-3
 =======================  ============================   =================================
 
 Lab Alumni
