@@ -13,7 +13,6 @@ Mohamed Abuelanin        Graduate Student               https://mr-eyes.github.i
 Keya Barve               Undergraduate Student          https://www.linkedin.com/in/keyabarve/
 \C. Titus Brown          QSWG and Assoc Professor       http://ivory.idyll.org/
 Amanda Charbonneau       Postdoc Researcher             https://acharbonneau.github.io/
-Rayna Harris             Postdoc Researcher             https://raynamharris.github.io/
 Hannah Houts             Graduate Student
 Jessica Lumian           Graduate Student               https://github.com/jessicalumian
 Tamer Mansour            Assistant Researcher           https://www.linkedin.com/in/tamer-ahmed-mansour/
@@ -43,6 +42,7 @@ Jake Fenton              https://github.com/bocajnotnef
 Alicia Gingrich
 Jiarong Guo              
 Chris Hamm               http://butterflyology.github.io
+Rayna Harris             https://www.raynaharris.com/
 Adina Howe               http://www.abe.iastate.edu/adina-howe/
 Luiz Irber               http://luizirber.org
 Lisa Johnson             
