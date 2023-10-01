@@ -10,20 +10,16 @@ Current members
 Name                     Position                       More information
 =======================  ============================   =================================
 Mohamed Abuelanin        Graduate Student               https://mr-eyes.github.io
-Keya Barve               Undergraduate Student          https://www.linkedin.com/in/keyabarve/
+Colton Baumler           Graduate Student
 \C. Titus Brown          QSWG and Assoc Professor       http://ivory.idyll.org/
-Amanda Charbonneau       Postdoc Researcher             https://acharbonneau.github.io/
-Rayna Harris             Postdoc Researcher             https://raynamharris.github.io/
+Makan Farhoodimoghadam   Graduate Student
+Anneliek ter Horst       Postdoc
 Hannah Houts             Graduate Student
-Jessica Lumian           Graduate Student               https://github.com/jessicalumian
 Tamer Mansour            Assistant Researcher           https://www.linkedin.com/in/tamer-ahmed-mansour/
 Bryshal Moore            Graduate Student
-\N. Tessa Pierce Ward    Postdoc Researcher             https://bluegenes.github.io
-Taylor Reiter            Postdoc Researcher             https://taylorreiter.github.io
-Camille Scott            Graduate Student               http://camillescott.github.io/
+\N. Tessa Pierce Ward    Assistant Researcher             https://bluegenes.github.io
 Mostafa Shokrof          Graduate Student
-Jeremy Walter            Training Coordinator
-Wengang Zhang            Postdoc Researcher             https://www.researchgate.net/profile/Wengang-Zhang-3
+Gina Vazquez             Graduate Student
 =======================  ============================   =================================
 
 Lab Alumni
@@ -36,26 +32,33 @@ Name                     More information
 =======================  =================================
 Harriet Alexander        http://halexand.github.io/
 Sherine Awad             https://github.com/SherineAwad
+Keya Barve               https://www.linkedin.com/in/keyabarve/
 Phillip Brooks           https://brooksph.github.io
 Saranya Canchi           https://s-canchi.github.io
+Amanda Charbonneau       https://acharbonneau.github.io/
 Michael R. Crusoe        https://orcid.org/0000-0002-2961-9670
 Jake Fenton              https://github.com/bocajnotnef
 Alicia Gingrich
 Jiarong Guo              
 Chris Hamm               http://butterflyology.github.io
+Rayna Harris             https://raynamharris.github.io/
 Adina Howe               http://www.abe.iastate.edu/adina-howe/
 Luiz Irber               http://luizirber.org
 Lisa Johnson             
 Marisa Lim               https://marisalim.github.io/
 Elijah Lowe
+Jessica Lumian           https://github.com/jessicalumian
 Abhijna Parigi           https://www.linkedin.com/in/abhijna-parigi/
 Kanchan Pavangadkar
 Jason Pell
 Likit Preeyanon
 Charles Reid             Software engineer
+Taylor Reiter            https://taylorreiter.github.io
 Jose Sanchez             https://www.linkedin.com/in/jose-manuel-sanchez-jr/
+Camille Scott            http://camillescott.github.io/
 Richard Smith-Unna       http://blahah.net
 Daniel Standage
+Jeremy Walter
 Karen Word               
 Qingpeng Zhang           http://qingpeng.org
 =======================  =================================
