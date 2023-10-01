@@ -41,7 +41,7 @@ Jake Fenton              https://github.com/bocajnotnef
 Alicia Gingrich
 Jiarong Guo              
 Chris Hamm               http://butterflyology.github.io
-Rayna Harris             https://raynamharris.github.io/
+Rayna Harris             https://www.raynaharris.com/
 Adina Howe               http://www.abe.iastate.edu/adina-howe/
 Luiz Irber               http://luizirber.org
 Lisa Johnson             
