@@ -14,10 +14,8 @@ genomic, transcriptomic, and metagenomic sequence analysis.
 
 In brief,
 
-* the lab is the primary developer of the `khmer
-  <https://github.com/ged-lab/khmer/>`__, `sourmash
-  <https://github.com/dib-lab/sourmash>`__, and `spacegraphcats
-  <https://github.com/spacegraphcats/spacegraphcats>`__ software for
+* the lab is the primary developer of the `sourmash
+  <https://github.com/dib-lab/sourmash>`__ software for
   faster and more efficient sequence analysis of high-throughput
   sequencing data.
 
@@ -28,7 +26,7 @@ In brief,
   <http://ucdavis.edu>`__ in the `School of Veterinary Medicine
   <http://www.vetmed.ucdavis.edu>`__.
 
-The lab is run by Dr. C. Titus Brown, an Associate Professor at UC
+The lab is run by Dr. C. Titus Brown, an Professor at UC
 Davis; you can see many of the lab's publications `here
 <https://scholar.google.com/citations?hl=en&user=O4rYanMAAAAJ&view_op=list_works&sortby=pubdate>`__. You
 can read more about the lab members under :doc:`members`.
@@ -64,7 +62,7 @@ A comprehensive list of Web site content:
 
 ----
 
-This web site is `hosted on github <https://github.com/ged-lab/dib-lab>`__;
+This web site is `hosted on github <https://github.com/dib-lab/dib-lab>`__;
 please edit it there.
 
 .. lab links: progress report; lab meetings; jclub.
