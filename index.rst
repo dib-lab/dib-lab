@@ -26,7 +26,7 @@ In brief,
   <http://ucdavis.edu>`__ in the `School of Veterinary Medicine
   <http://www.vetmed.ucdavis.edu>`__.
 
-The lab is run by Dr. C. Titus Brown, an Professor at UC
+The lab is run by Dr. C. Titus Brown, a Professor at UC
 Davis; you can see many of the lab's publications `here
 <https://scholar.google.com/citations?hl=en&user=O4rYanMAAAAJ&view_op=list_works&sortby=pubdate>`__. You
 can read more about the lab members under :doc:`members`.
