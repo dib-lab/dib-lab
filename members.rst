@@ -12,6 +12,7 @@ Name                     Position                       More information
 Mohamed Abuelanin        Graduate Student               https://mr-eyes.github.io
 Colton Baumler           Graduate Student
 \C. Titus Brown          QSWG and Assoc Professor       http://ivory.idyll.org/
+Ricardo Cantua           Rotation Student
 Makan Farhoodimoghadam   Graduate Student
 Anneliek ter Horst       Postdoc
 Hannah Houts             Graduate Student
